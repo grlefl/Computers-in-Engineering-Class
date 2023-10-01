@@ -1,0 +1,3 @@
+/Users/graceflores/engr2730/glflores/practice/Exam#1/cmake-build-debug/CMakeFiles/Exam_1.dir
+/Users/graceflores/engr2730/glflores/practice/Exam#1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/graceflores/engr2730/glflores/practice/Exam#1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

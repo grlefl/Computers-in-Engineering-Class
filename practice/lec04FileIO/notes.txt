@@ -1,0 +1,6 @@
+Notes (complete)
+- fin.good() - to check for EOF in a while loop, trips up over no whitespace at the end
+- fin.eof() - checks for end of file, works with no whitespace at the end
+- fin.fail() I'm not sure what this does, checking for failure
+Practice (complete)
+- write a program to compute average list of numbers stored in a file using EOF file format

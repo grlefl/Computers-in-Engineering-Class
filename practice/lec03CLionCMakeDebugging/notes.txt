@@ -1,0 +1,23 @@
+Notes (complete)
+- "refactor" to rename a file
+- don't rename file with different case
+- file colors
+- load CMake project
+cmake_minimum_required(VERSION 3.23) // sets the minimum version of CMake for this project
+project(lec03CLionCMakeDebugging) // project() command sets project name
+
+set(CMAKE_CXX_STANDARD 14) // minimum version of C++ needed to build project
+
+add_executable(lec03CLionCMakeDebugging main.cpp)
+// requests executables to be built
+- debugger demo
+    - debugger "breakpoint"
+    - step over (execute line)
+    - step out of function
+    - step into function on line
+- integer division
+- float division
+- modulo function
+Practice (complete)
+- compute average of five numbers using a function
+

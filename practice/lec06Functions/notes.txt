@@ -1,0 +1,4 @@
+Notes (incomplete)
+Practice (incomplete)
+- write a function that swaps two numbers
+- passing arrays vs vectors to functions (two functions)

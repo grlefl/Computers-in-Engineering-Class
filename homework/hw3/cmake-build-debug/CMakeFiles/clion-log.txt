@@ -1,0 +1,11 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/graceflores/engr2730/glflores/homework/hw3 -B /Users/graceflores/engr2730/glflores/homework/hw3/cmake-build-debug
+CMake Warning (dev) at CMakeLists.txt:7 (configure_file):
+  configure_file called with unknown argument(s):
+
+   COPYONL
+
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/graceflores/engr2730/glflores/homework/hw3/cmake-build-debug

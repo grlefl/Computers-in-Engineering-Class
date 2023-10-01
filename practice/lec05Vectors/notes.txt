@@ -1,0 +1,7 @@
+Notes (incomplete)
+- initializing all array elements to zero
+- vector example
+- state machine example
+Practice
+- (incomplete) - write a program to compute the average of a list of numbers stored in an array
+

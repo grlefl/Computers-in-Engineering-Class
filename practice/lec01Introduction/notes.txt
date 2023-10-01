@@ -1,0 +1,9 @@
+Notes (complete)
+- CLion - integrated development environment
+- Subversion - revision control software
+
+lec02GettingStarted
+- directions on how to use class laptops
+- VDI - Virtual Desk Infrastructure
+- set up CLion on personal laptop
+- working with Subversion
